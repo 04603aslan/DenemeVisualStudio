@@ -1,4 +1,4 @@
-#include<iostream>
+﻿#include<iostream>
 #include <string>
 using namespace std;
 int main()
@@ -36,7 +36,8 @@ int main()
 		break;
 	}
 
+	cout << "2020 © BARIŞ KARAPELİT";
 
-	
+	return 0;
 
 }
