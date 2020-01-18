@@ -8,10 +8,10 @@ int main()
 	cout << header<<endl;
 	cout << "Enter the a Number :"<<endl;
 	cin >> a; 
-	while(a==char)
+	/*while(a==char)
 	{
 		cin>>a;
-	}
+	}*/
 	cout << "Enter the a Number :"<<endl;
 	cin >> b;
 	cout << "Do you Operating choice : + / * -" << endl;
