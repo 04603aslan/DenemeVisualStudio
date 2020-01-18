@@ -11,6 +11,7 @@ int main()
 	/*while(a==char)
 	{
 		cin>>a;
+
 	}*/
 	cout << "Enter the a Number :"<<endl;
 	cin >> b;
